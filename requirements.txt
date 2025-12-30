@@ -1,0 +1,21 @@
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+jupyter
+
+# NLP / Transformers
+torch
+transformers
+datasets
+evaluate
+sentencepiece
+sacrebleu
+rouge-score
+
+# RL / RLHF
+gym
+trl
+accelerate
+peft
